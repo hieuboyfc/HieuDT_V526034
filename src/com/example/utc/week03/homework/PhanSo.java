@@ -1,4 +1,4 @@
-package com.example.utc.week03;
+package com.example.utc.week03.homework;
 
 public class PhanSo {
     private int tuSo;

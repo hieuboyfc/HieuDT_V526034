@@ -1,4 +1,4 @@
-package com.example.utc.week03;
+package com.example.utc.week03.homework;
 
 import java.util.ArrayList;
 import java.util.List;
